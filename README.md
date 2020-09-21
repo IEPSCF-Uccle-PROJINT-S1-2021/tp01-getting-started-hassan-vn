@@ -9,23 +9,16 @@
 
 ## Nom
 
-Skywalker
+van Nuijs
 
 ## Prénom
 
-Luke
+Hassan
 
 ## Courte présentation
 
 Bonjour,
 
-Je m'appelle Luke.
-J'aime bien piloter des vaisseaux spatiaux en mode manuel.
-Et je aussi parler aux robots.
-Grand voyageur, j'ai visité plusieurs planètes.
-Malheureusement, mes voyages ne se terminent pas toujours bien.
-
-Je suis tantôt impulsif, tantôt grognon.
-Et j'ai une famille un peu compliquée.
-
-J'ai hâte d'apprendre à programmer en JavaScript.
+Je m'appelle Hassan van Nuijs.
+Je suis un étudiant en dernière année du bachelier en informatique de gestion.
+J'aime programmer et j'ai hâte d'améliorer mes connaissances afin de réussir cette année.
