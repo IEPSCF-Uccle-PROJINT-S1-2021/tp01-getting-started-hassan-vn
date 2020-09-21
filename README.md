@@ -20,5 +20,7 @@ Hassan
 Bonjour,
 
 Je m'appelle Hassan van Nuijs.
+
 Je suis un étudiant en dernière année du bachelier en informatique de gestion.
+
 J'aime programmer et j'ai hâte d'améliorer mes connaissances afin de réussir cette année.
